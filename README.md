@@ -1,10 +1,10 @@
 # Web Interface
 
 ### Team Members
-| ### Team Members|
-| ----------------|
-| Mikal Callahan  |
-| Austin Miller   |
+| Team Members   |
+| -------------  |
+| Mikal Callahan |
+| Austin Miller  |
 
 Resources used:
 * responsive css framework, tbd
